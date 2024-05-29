@@ -20,7 +20,7 @@
 - `git branch -av`: List all branches, local and remote branches
 - `git checkout <branch-name>`: Switch to a specific branch.
 
-## merge branches
+## Merge branches
 - `git checkout branch_b`
 - `git merge branch_a`
 
